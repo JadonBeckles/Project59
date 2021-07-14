@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+div{
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+       
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+
+}
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
